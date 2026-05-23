@@ -1,0 +1,6 @@
+# robots.txt for volt-guard.co.uk
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://volt-guard.co.uk/sitemap.xml
